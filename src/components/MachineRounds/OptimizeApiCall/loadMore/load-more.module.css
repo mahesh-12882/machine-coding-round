@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    /* justify-items: center; */
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+
+ul li{
+    list-style-type: none;
+}
